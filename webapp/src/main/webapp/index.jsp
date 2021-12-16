@@ -6,13 +6,4 @@
 <h1> Good job on learning Devops</h1>
 <h1> Good job on learning Devops</h1>
 <h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
-<h1> Good job on learning Devops</h1>
+<h1> Good job </h1>
